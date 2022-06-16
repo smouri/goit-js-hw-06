@@ -1,4 +1,3 @@
-const ingredientsCont = document.querySelector("#ingredients");
 const ingredients = [
     "Potatoes",
     "Mushrooms",
@@ -7,7 +6,7 @@ const ingredients = [
     "Herbs",
     "Condiments",
 ];
-
+const ingredientsCont = document.querySelector("#ingredients");
 const createList = (el) => {
     let li = document.createElement("li");
     li.textContent = el;
