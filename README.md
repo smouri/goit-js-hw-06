@@ -1,2 +1,2 @@
 # goit-js-hw-06
-Модуль 6 - DOM И СОБЫТИЯ
+https://smouri.github.io/goit-js-hw-06/
